@@ -1,2 +1,2 @@
-# FreeCodeCamp
-ASP.NET Core MVC Course (.NET 5)
+# Some CRUD operations
+ASP.NET Core MVC (.NET 5)
